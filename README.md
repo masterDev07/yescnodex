@@ -1,6 +1,6 @@
 Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall, telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "YescNodex".
 ------------------------------
-## 🧠 "Analisis" Alur "Latihan" "Recall" Cerdas
+## 🧠 "Analisis" Alur "Latihan" "Recall"
 Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam aplikasi:
 
  [ PROSES MEMBACA / BELAJAR ]
