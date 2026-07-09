@@ -1,11 +1,3 @@
-
-__   __             _   _           _
-\ \ / /__  ___  ___| \ | | ___   __| | _____  __
- \ V / _ \/ __|/ __|  \| |/ _ \ / _` |/ _ \ \/ /
-  | |  __/\__ \ (__| |\  | (_) | (_| |  __/>  <
-  |_|\___||___/\___|_| \_|\___/ \__,_|\___/_/\_\
-
-
 Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall (baris 2250), telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "YescNodex".
 ------------------------------
 ## 🧠 "Analisis" Alur "Latihan" "Recall" Cerdas
