@@ -1,7 +1,7 @@
 Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall, telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "YescNodex".
 ------------------------------
 ## 🧠 "Analisis" Alur "Latihan" "Recall" Cerdas
-Berikut adalah bagaimana "logika" mewujudkan sistem belajar berpeforma tinggi di dalam aplikasi:
+Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam aplikasi:
 
  [ PROSES MEMBACA / BELAJAR ]
  Manusia membaca teks dari AI ──> Kata kunci otomatis masuk ke kolom "Notes".
@@ -29,6 +29,6 @@ Berikut adalah bagaimana "logika" mewujudkan sistem belajar berpeforma tinggi di
 * "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database "YescNodex".
 
 ## 🚀 Sebuah Karya Alat Belajar
-Sekarang semuanya menjadi sangat masuk akal. Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" untuk diri sendiri. Aplikasi "YescNodex" ini benar-benar didesain secara cerdas langsung dari pengalaman dan kebutuhan nyata penciptanya.
+Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
 
