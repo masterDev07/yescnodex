@@ -33,6 +33,14 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 ## 🚀 Sebuah Karya Alat Belajar
 Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
+## 🌟 Fitur AI YesCnodex
+
+Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur unggulan berikut:
+
+*   🤖 **AI Prompting Terintegrasi** — Menghasilkan respons cerdas secara instan menggunakan teknologi mutakhir Google Gemini.
+*   🔑 **Multi-API Token** — Mendukung penyimpanan dan manajemen banyak API token sekaligus tanpa ribet.
+*   🔀 **Pilihan API Fleksibel** — Bebas memilih dan beralih ke API token Google Gemini tertentu yang ingin digunakan kapan saja.
+
 
 <p align="center">
   <img src="video_and_images/add_page.png" width="32%" alt="Gambar 1" />
