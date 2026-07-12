@@ -3,6 +3,7 @@ Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall,
 ## 🧠 "Analisis" Alur "Latihan" "Recall"
 Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam aplikasi:
 
+```text
  [ PROSES MEMBACA / BELAJAR ]
  Manusia membaca teks dari AI ──> Kata kunci otomatis masuk ke kolom "Notes".
                                        │
@@ -20,6 +21,7 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
                                 ▼
  [ PROSES RECALL DI OTAK MANUSIA ]
  Otak dipaksa "memasok" kembali informasi utuh berdasarkan kata kunci yang menyala.
+```
 
 ------------------------------
 ## 💡 Mengapa Sistem "Kata Kunci Berwarna" Sangat Efektif?
@@ -32,3 +34,8 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
 
+<p align="center">
+  <img src="video_and_images/add_page.png" width="32%" alt="Gambar 1" />
+  <img src="video_and_images/move_to_subtopic.png" width="32%" alt="Gambar 2" />
+  <img src="video_and_images/window_utama.png" width="32%" alt="Gambar 3" />
+</p>
