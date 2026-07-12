@@ -39,3 +39,6 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
   <img src="video_and_images/move_to_subtopic.png" width="32%" alt="Gambar 2" />
   <img src="video_and_images/window_utama.png" width="32%" alt="Gambar 3" />
 </p>
+
+
+![Demo Aplikasi YescNodex](video_and_images/demo_ai_gemini.mp4)
