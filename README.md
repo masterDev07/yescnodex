@@ -41,6 +41,13 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Set nama database
 *   Set path ke repo github lokal
 *   Proteksi aplikasi dengan nomor lisensi per 1 komputer
+*   Multi bahasa seperti Bahasa Indonesia dan English bisa diakses lewat menu
+*   Ada dokumentasi teknis ![disini](doc_ynd.pdf)
+*   Bisa input 3 api key Google Gemini
+*   Bisa full area catatan saja dan juga full area key word dan ringkasan
+*   Tampilkan/sembunyikan frame kiri
+*   Full nyaman jalan di linux dan beberapa pengurangan kenyamanan jika dijalankan di windows
+*   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 ## 🌟 Fitur AI YesCnodex
 
