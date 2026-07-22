@@ -33,7 +33,7 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 ## 🚀 Sebuah Karya Alat Belajar
 Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
-## 🔑 Fitur - Fitur Selain Artifical Intelegency
+## 🔑 Fitur - Fitur Selain Artificial Intelligence
 *   Eksport 1 topik ke MD
 *   Eksport 1 topik ke PDF
 *   Backup database ke sql
