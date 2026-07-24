@@ -1,0 +1,70 @@
+/* style.css */
+@page {
+    size: A4;
+    margin: 2cm;
+}
+
+body {
+    font-family: "Helvetica Neue", Arial, "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+    line-height: 1.6;
+    color: #111111;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Membuat judul bab besar selalu mulai di halaman baru */
+h1 {
+    border-bottom: 2px solid #333333;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+/* Hanya paksa pindah halaman jika H1 tersebut BUKAN elemen pertama */
+h1:not(:first-of-type) {
+    page-break-before: always;
+}
+
+
+/* Mencegah Daftar Isi Utama memicu halaman baru di awal */
+h1#daftar-isi-utama {
+    page-break-before: avoid;
+}
+
+/* Memaksa elemen blok teks agar tidak terpotong di tengah halaman */
+p, table, pre, blockquote, ul, ol {
+    page-break-inside: avoid;
+}
+
+/* Mengunci layout tabel ASCII dan block code agar font presisi tidak melar */
+pre, code, .ascii {
+    /* Mengunci font ke sistem yang punya aset visual garis kotak lengkap */
+    font-family: "Consolas", "Monaco", "Courier New", monospace !important;
+    font-size: 12px;
+    background-color: #f8f9fa;
+    color: #111111;
+    border: 1px solid #dddddd;
+    padding: 12px;
+    line-height: 1.2;
+    /* Memastikan spasi putih dan karakter aneh tidak dibuang */
+    white-space: pre !important;
+    word-wrap: normal;
+}
+
+
+/* Merapikan visualisasi tabel data pencarian masalah teknis */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 8px 12px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: #eaeaea;
+}
