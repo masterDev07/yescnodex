@@ -18,7 +18,6 @@ WHITELIST_FILES="^\./bersihkan_proyek\.sh$|\
 ^\./controllers/__init__\.py$|\
 ^\./controllers/editor_controller\.cpython-312-x86_64-linux-gnu\.so$|\
 ^\./controllers/fileConf\.cpython-312-x86_64-linux-gnu\.so$|\
-^\./cornell_catatan_v1\.db$|\
 ^\./requirements\.txt$|\
 ^\./run\.py$|\
 ^\./models/__init__\.py$|\
