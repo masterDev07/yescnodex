@@ -58,6 +58,15 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   🔀 **Pilihan API Fleksibel** — Bebas memilih dan beralih ke API token Google Gemini tertentu yang ingin digunakan kapan saja.
 
 
+## 🚀 Cara Jalankan
+
+clone repositori ini kemudian cd ke dir "ready_distribution"
+rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
+install requirements librari aplikasinya
+jalankan python3 run.py
+
+
+
 <p align="center">
   <img src="video_and_images/add_page.png" width="32%" alt="Gambar 1" />
   <img src="video_and_images/move_to_subtopic.png" width="32%" alt="Gambar 2" />
