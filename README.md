@@ -75,3 +75,5 @@ jalankan python3 run.py
 
 
 ![Demo Aplikasi YescNodex](video_and_images/demo_ai_gemini.mp4)
+
+![Contoh hasil PDF YescNodex](2026-08-07-Infrastruktur_Jaringan_Wireless_WISP_67_compiled.html.pdf)
