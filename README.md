@@ -28,10 +28,10 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 
 * "Efek" "Isolasi" "Visual": Ketika tampilan utama disembunyikan dan hanya "kata kunci" ("Cues") saja yang muncul dengan warna penanda khusus, mata langsung menangkap jangkar ingatan tersebut tanpa terganggu oleh detail teks lain.
 * "Melawan" "Ilusi" "Kompetensi": Banyak pelajar merasa sudah paham hanya karena selesai membaca teks. Dengan menyembunyikan jawaban dan memaksa otak memikirkan definisinya sendiri, untuk membangun jalur saraf ingatan jangka panjang (long-term memory) yang sangat kuat.
-* "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database "YescNodex".
+* "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database.
 
 ## 🚀 Sebuah Karya Alat Belajar
-Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
+Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "Engine" . Aplikasi "YescNodex" yang berubah nama menjadi "CnoteExplorer" ini benar-benar didesain langsung dari pengalaman dan kebutuhan nyata penciptanya.
 
 ## 🔑 Fitur - Fitur Selain Artificial Intelligence
 *   Eksport 1 topik ke MD
@@ -42,14 +42,14 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Set path ke repo github lokal
 *   Proteksi aplikasi dengan nomor lisensi per 1 komputer
 *   Multi bahasa seperti Bahasa Indonesia dan English bisa diakses lewat menu
-*   Ada dokumentasi teknis ![disini](doc_ynd.pdf)
+*   Ada dokumentasi teknis ![disini](ready_distribution/static/doc_cne.pdf)
 *   Bisa input 3 api key Google Gemini
 *   Bisa full area catatan saja dan juga full area key word dan ringkasan
 *   Tampilkan/sembunyikan frame kiri
 *   Full nyaman jalan di linux dan beberapa pengurangan kenyamanan jika dijalankan di windows
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
-## 🌟 Fitur AI YesCnodex
+## 🌟 Fitur AI CnoteExplorer
 
 Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur unggulan berikut:
 
@@ -74,6 +74,6 @@ jalankan python3 run.py
 </p>
 
 
-![Demo Aplikasi YescNodex](video_and_images/demo_ai_gemini.mp4)
+![Demo Aplikasi CnoteExplorer](video_and_images/demo_ai_gemini.mp4)
 
-![Contoh hasil PDF YescNodex](2026-08-07-Infrastruktur_Jaringan_Wireless_WISP_67_compiled.html.pdf)
+![Contoh hasil PDF](2026-08-07-Infrastruktur_Jaringan_Wireless_WISP_67_compiled.html.pdf)
