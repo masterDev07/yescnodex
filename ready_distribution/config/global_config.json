@@ -1,17 +1,16 @@
 {
-    "gemini_api_key": "AIzaSyAlpy4kDC13CDmwQCqYR7-JihW1XXz9vw8",
-    "gemini_api_key1": "AIzaSyAlpy4kDC13CDmwQCqYR7-JihW1XXz9vw8",
-    "gemini_api_key2": "cendol",
-    "bahasa": "id",
+    "gemini_api_key": "AQ.Ab8RN6IGPomUgx9K0qbWrKfVb7oONSQ",
+    "gemini_api_key1": "AIzaSyAlpy4kDC13CDmwQCqYR7",
+    "gemini_api_key2": "cenddol",
     "font_sidebar": {
-        "size": 17,
-        "name": "Segoe UI"
+        "size": 14,
+        "name": "Arial"
     },
-    "BAHASA": {
-        "NAMA": "en"
+    "language": {
+        "name": "en"
     },
     "db_name": "cornell_catatan_v1.db",
     "github_local_path": "/home/mint/Downloads/repo_cnodex",
     "folder_media": "media_notes",
-    "license": "2e8aa018a2fb5f61a0eec08290b2dc6cdca1a1470b28584221f04c963a"
+    "license": "2e8aa018a2fb5f61a0eec08290b2dc6cdca1a1470b28584221f04c963ae748"
 }
