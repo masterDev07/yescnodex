@@ -60,10 +60,11 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 
 ## 🚀 Cara Jalankan
 
-clone repositori ini kemudian cd ke dir "ready_distribution"
+*   clone repositori ini kemudian cd ke dir "ready_distribution"
 rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
-install requirements librari aplikasinya
-jalankan python3 run.py
+*   install requirements librari aplikasinya
+*   jalankan python3 run.py
+*   Or you can install it with deb package. Find package deb of Cnote Explorer on release link.
 
 
 
