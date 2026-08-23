@@ -1,5 +1,7 @@
 Dengan memadukan aturan "tanda petik ganda" ("") dan fitur toggle_active_recall, telah diciptakan sebuah ekosistem "Active" "Recall" dan "Spaced" "Repetition" mandiri yang sangat bertenaga di dalam aplikasi "YescNodex".
+
 ------------------------------
+
 ## 🧠 "Analisis" Alur "Latihan" "Recall"
 Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam aplikasi:
 
@@ -27,7 +29,9 @@ Berikut adalah "logika" mewujudkan sistem belajar berpeforma tinggi di dalam apl
 ## 💡 Mengapa Sistem "Kata Kunci Berwarna" Sangat Efektif?
 
 * "Efek" "Isolasi" "Visual": Ketika tampilan utama disembunyikan dan hanya "kata kunci" ("Cues") saja yang muncul dengan warna penanda khusus, mata langsung menangkap jangkar ingatan tersebut tanpa terganggu oleh detail teks lain.
+
 * "Melawan" "Ilusi" "Kompetensi": Banyak pelajar merasa sudah paham hanya karena selesai membaca teks. Dengan menyembunyikan jawaban dan memaksa otak memikirkan definisinya sendiri, untuk membangun jalur saraf ingatan jangka panjang (long-term memory) yang sangat kuat.
+
 * "Otomatisasi" "Materi": tidak perlu membuang waktu membuat kartu flash (flashcards) manual lagi. Setiap kali berdiskusi dengan AI atau mencatat proyek, materi ujian mandiri langsung tercipta secara otomatis di dalam database.
 
 ## 🚀 Sebuah Karya Alat Belajar
@@ -46,7 +50,7 @@ Bukan sekadar editor teks biasa, tapi dibangun sebuah "Interactive" "Learning" "
 *   Bisa input 3 api key Google Gemini
 *   Bisa full area catatan saja dan juga full area key word dan ringkasan
 *   Tampilkan/sembunyikan frame kiri
-*   Full nyaman jalan di linux dan beberapa pengurangan kenyamanan jika dijalankan di windows
+*   Full nyaman jalan di linux dan beberapa pengurangan kenyamanan jika dijalankan di windows.
 *   Siap dipakai untuk dokumentasi pembuatan program, catatan riset di komputer untuk profesi programmer,devops,pelajar,mahasiswa dan lain-lain.
 
 ## 🌟 Fitur AI CnoteExplorer
@@ -58,6 +62,15 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   🔀 **Pilihan API Fleksibel** — Bebas memilih dan beralih ke API token Google Gemini tertentu yang ingin digunakan kapan saja.
 
 
+## 🌟 Bisa Apa Saja CnoteExplorer
+
+*   Untuk membuat curriculum vitae atau daftar riwayat hidup dalam bentuk file pdf
+*   Untuk analisa kode dilakukan oleh Gemini dengam memanfaatkan keyword baca file yaitu file: dan #ai:
+*   Untuk kesenangan
+*   Untuk membuat catatan yang terorganisir dengan pola yang sudah baku yaitu topik, sub topik dan halaman
+*   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
+
+
 ## 🚀 Cara Jalankan
 
 *   clone repositori ini kemudian cd ke dir "ready_distribution"
@@ -65,7 +78,6 @@ rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 *   install requirements librari aplikasinya
 *   jalankan python3 run.py
 *   Or you can install it with deb package. Find package deb of Cnote Explorer on release link.
-
 
 
 <p align="center">
