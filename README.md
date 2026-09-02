@@ -68,6 +68,9 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk analisa kode dilakukan oleh Gemini dengam memanfaatkan keyword baca file yaitu file: dan #ai:
 *   Untuk kesenangan
 *   Untuk membuat catatan yang terorganisir dengan pola yang sudah baku yaitu topik, sub topik dan halaman
+*   Untuk membuat catatan harian / diary
+*   Untuk membuat catatan kegiatan
+*   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik  On Progress sebaliknya jika selesai dipindah  ke  sub topik Fix.
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
 
 
@@ -77,7 +80,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 *   install requirements librari aplikasinya
 *   jalankan python3 run.py
-*   Or you can install it with deb package. Find package deb of Cnote Explorer on release link.
+*   Or you can install it with deb package. Find package deb of Cnote Explorer on release link (Install dengan paket debian di link rilis)
 
 
 <p align="center">
@@ -89,4 +92,4 @@ rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 
 ![Demo Aplikasi CnoteExplorer](video_and_images/demo_ai_gemini.mp4)
 
-![Contoh hasil PDF](2026-08-07-Infrastruktur_Jaringan_Wireless_WISP_67_compiled.html.pdf)
+![Contoh hasil PDF](Welcome_to_CnoteExplorer_2_compiled.html.pdf)
