@@ -80,7 +80,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 *   install requirements librari aplikasinya
 *   jalankan python3 run.py
-*   Or you can install it with deb package. Find package deb of Cnote Explorer on release link (Install dengan paket debian di link rilis)
+*   Or you can install it with deb package last release. Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/yescnodex/releases/tag/cnoteexplorer))
 
 
 <p align="center">
