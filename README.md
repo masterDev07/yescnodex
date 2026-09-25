@@ -70,8 +70,9 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk membuat catatan yang terorganisir dengan pola yang sudah baku yaitu topik, sub topik dan halaman
 *   Untuk membuat catatan harian / diary
 *   Untuk membuat catatan kegiatan
-*   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik  On Progress sebaliknya jika selesai dipindah  ke  sub topik Fix.
+*   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik  On Progress sebaliknya jika selesai dipindah  ke  sub topik Fix
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
+*   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA dan lain - lain
 
 
 ## 🚀 Cara Jalankan
