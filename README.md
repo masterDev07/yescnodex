@@ -75,7 +75,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA dan lain - lain
 
 
-## Format Soal Pilihan Ganda A Hingga E Untuk Dipelajari
+## 🌟 Format Soal Pilihan Ganda A Hingga E Untuk Dipelajari
 
 Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda  x/X diakhir pilihan ganda. Klik baris soalnya dahulu kemudian baca soal seperti biasa pilih salah satu pilihan ganda dengan memberi tanda x/X diakhir. Untuk langsung  mengetahui jawaban yang benar klik jawaban. Bisa juga  selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Edit -> Check User Answers.
 
