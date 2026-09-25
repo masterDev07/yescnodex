@@ -75,6 +75,23 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA dan lain - lain
 
 
+## Format Soal Pilihan Ganda A Hingga E Untuk Dipelajari
+
+Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda  x/X diakhir pilihan ganda. Klik baris soalnya dahulu kemudian baca soal seperti biasa pilih salah satu pilihan ganda dengan memberi tanda x/X diakhir. Untuk langsung  mengetahui jawaban yang benar klik jawaban. Bisa juga  selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Edit -> Check User Answers.
+
+Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4))
+
+```text
+## 15. Kisi-kisi: Perbandingan Senilai / Berbalik Nilai
+Sebuah proyek pembangunan jembatan ditargetkan selesai dalam waktu 60 hari oleh 24 pekerja. Setelah proyek berjalan selama 15 hari, pekerjaan dihentikan selama 9 hari karena kendala cuaca buruk. Agar proyek dapat selesai tepat waktu sesuai target awal, berapakah jumlah pekerja tambahan yang harus dikontrak?
+a. 6 pekerja
+b. 8 pekerja
+c. 10 pekerja
+d. 12 pekerja
+e. 16 pekerja
+## jawaban
+a
+```
 ## 🚀 Cara Jalankan
 
 *   clone repositori ini kemudian cd ke dir "ready_distribution"
