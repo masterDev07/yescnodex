@@ -79,7 +79,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 
 Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda  x/X diakhir pilihan ganda. Klik baris soalnya dahulu kemudian baca soal seperti biasa pilih salah satu pilihan ganda dengan memberi tanda x/X diakhir. Untuk langsung  mengetahui jawaban yang benar klik jawaban. Bisa juga  selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Edit -> Check User Answers.
 
-Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4))
+Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4)) atau lihat saja folder video_and_images disana ada file-file mp4.
 
 ```text
 ## 15. Kisi-kisi: Perbandingan Senilai / Berbalik Nilai
