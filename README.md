@@ -70,16 +70,19 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 *   Untuk membuat catatan yang terorganisir dengan pola yang sudah baku yaitu topik, sub topik dan halaman
 *   Untuk membuat catatan harian / diary
 *   Untuk membuat catatan kegiatan
-*   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik  On Progress sebaliknya jika selesai dipindah  ke  sub topik Fix
+*   Untuk membuat catatan progres pembuatan program contoh buat sub topik  On Progress dan Fix. Jika masih belum selesai diletakkan di sub topik "On Progress" sebaliknya jika selesai dipindah ke sub topik "Fix"
 *   Untuk memecah kebuntuan pikiran  dengan menuliskannya kedalam Cnote Explorer
-*   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA dan lain - lain
+*   Untuk belajar soal-soal pilihan ganda dengan format tertentu untuk lolos tes CPNS, Ujian Nasional, tes profesional misal CCNA, DevOps Foundation (dari DevOps Institute), Docker Certified Associate (DCA), atau KCNA (Kubernetes and Cloud-Native Associate) dan lain - lain.
+*   Untuk mengacak pilihan ganda dan jawaban beserta nomor soal dengan format yang telah ditentukan di catatan utama
 
 
-## 🌟 Format Soal Pilihan Ganda A Hingga E Untuk Dipelajari
+## 🌟 Format Soal Pilihan Ganda
 
-Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda  x/X diakhir pilihan ganda. Klik baris soalnya dahulu kemudian baca soal seperti biasa pilih salah satu pilihan ganda dengan memberi tanda x/X diakhir. Untuk langsung  mengetahui jawaban yang benar klik jawaban. Bisa juga  selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Edit -> Check User Answers.
+Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda  x/X diakhir pilihan ganda. Klik baris soalnya dahulu kemudian baca soal seperti biasa pilih salah satu pilihan ganda dengan memberi tanda x/X diakhir. Untuk langsung  mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Quiz -> "Sorot Semua Jawaban". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
 
-Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4)) atau lihat saja folder video_and_images disana ada file-file mp4.
+Bayangkan kamu sebagai seorang yang akan menghadapi tes misal CPNS, CCNA dan lain - lain bahkan seorang dosen atau guru bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu saat kamu menghadapi tes yang sebenarnya. Kamu seakan bisa melakukan simulasi soal pilihan ganda sesuai tujuan kamu tersebut. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Quiz -> "Acak Quiz".
+
+Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda dengan Cnote Explorer](video_and_images/demo_belajar_soal_-_soal_tes_cpns.mp4) atau lihat saja folder video_and_images disana ada file-file mp4.
 
 ```text
 ## 15. Kisi-kisi: Perbandingan Senilai / Berbalik Nilai
@@ -98,7 +101,7 @@ a
 rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 *   install requirements librari aplikasinya
 *   jalankan python3 run.py
-*   Or you can install it with deb package last release. Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/yescnodex/releases/tag/cnoteexplorer))
+*   Or you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/yescnodex/releases/tag/cnoteexplorer)
 
 
 <p align="center">
