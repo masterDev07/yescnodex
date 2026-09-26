@@ -100,6 +100,7 @@ a
 *   clone repositori ini kemudian cd ke dir "ready_distribution"
 rekomendasi menggunakan Linux Mint untuk distronya atau bisa juga pakai WSL
 *   install requirements librari aplikasinya
+*   pastikan jalur lokasi virtual environment pada venvPath di /opt/cnoteexplorer/hola.sh dengan benar
 *   jalankan python3 run.py
 *   Or you can install it with last release debian package . Find package deb of Cnote Explorer on release link (Install dengan paket debian di [link rilis](https://github.com/masterDev07/yescnodex/releases/tag/cnoteexplorer)
 
