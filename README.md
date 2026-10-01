@@ -78,7 +78,7 @@ Nikmati pengalaman pengembangan yang fleksibel dan cerdas dengan fitur-fitur ung
 
 ## 🌟 Format Soal Pilihan Ganda
 
-Formatnya seperti dibawah ini untuk "jawaban" bisa diganti "answers". Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda pada pilihan ganda yang kamu pilih dengan 1 klik kiri mouse. Baca soal seperti biasa pilih salah satu pilihan ganda. Untuk langsung mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Kuis -> "Periksa Jawaban Pengguna". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
+Formatnya seperti dibawah ini untuk "jawaban". Untuk cara belajar dengan mengkopi semua soal dan ada jawabannya lalu dijadikan seperti format itu. Untuk belajarnya dengan memberi tanda pada pilihan ganda yang kamu pilih dengan 1 klik kiri mouse. Baca soal seperti biasa pilih salah satu pilihan ganda. Untuk langsung mengetahui jawaban yang benar klik jawaban. Bisa juga selesaikan seluruh soal dan untuk mengetahui jumlah soal yang benar maupun  salah bisa mengklik menu Kuis -> "Periksa Jawaban Pengguna". Maka akan tampil evaluasi hasil jumlah soal yang salah maupun benar dan total soal setelah kamu melakukan pengerjaan  soal.
 
 Bayangkan kamu sebagai seorang yang akan menghadapi tes misal CPNS, CCNA dan lain - lain bahkan pengajar bisa memanfaatkan ini untuk mengacak nomor soal dan jawaban dengan mudah. Pilih pilihan ganda a atau e atau yang lainnya dengan "1 klik kiri mouse". Simulasikan semua soal yang kamu anggap penting di aplikasi ini untuk menguji daya ingat kamu sebelum kamu menghadapi tes yang sebenarnya. Kamu bisa melakukan simulasi soal - soal pilihan ganda sesuai topik yang dibuat. Untuk mengacak nomor soal, pilihan jawaban, jawaban dan penjelasan klik menu Kuis -> "Acak Kuis".
 
@@ -87,11 +87,11 @@ Demo bisa  dilihat pada video berikut ![link belajar soal-soal pilihan ganda den
 ```text
 ## 15. Kisi-kisi: Perbandingan Senilai / Berbalik Nilai
 Sebuah proyek pembangunan jembatan ditargetkan selesai dalam waktu 60 hari oleh 24 pekerja. Setelah proyek berjalan selama 15 hari, pekerjaan dihentikan selama 9 hari karena kendala cuaca buruk. Agar proyek dapat selesai tepat waktu sesuai target awal, berapakah jumlah pekerja tambahan yang harus dikontrak?
-a. 6 pekerja
-b. 8 pekerja
-c. 10 pekerja
-d. 12 pekerja
-e. 16 pekerja
+A. 6 pekerja
+B. 8 pekerja
+C. 10 pekerja
+D. 12 pekerja
+E. 16 pekerja
 ## jawaban
 a
 ```
